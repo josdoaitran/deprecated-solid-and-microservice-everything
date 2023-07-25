@@ -1,6 +1,7 @@
-# solid-everything
-collect all information about solid
+# solid and MicroService Architecture everything
+collect all information about solid and MicroService Architecture
 
+## SOLID ?
 SOLID is an acronym that stands for:
 
 - Single Responsibility Principle (SRP)
@@ -11,12 +12,20 @@ SOLID is an acronym that stands for:
 
 ![Principle of SOLID](https://media.licdn.com/dms/image/D5622AQHkU3MTClQMOw/feedshare-shrink_2048_1536/0/1689848364234?e=1692835200&v=beta&t=Eke9rylSO7DRA9zgsjhRkVP6Qzm6VjrwCwIMYiGXPoo)
 
-## SOLID principles with Python:
+### SOLID principles with Python:
 https://realpython.com/solid-principles-python/
 
-## SOLID principles with Java:
+### SOLID principles with Java:
 https://www.javatpoint.com/solid-principles-java
+
+## Microservice Architecture
+https://microservices.io/index.html
+- From Monolithic to Microservice:
+https://microservices.io/patterns/monolithic.html
+![Example-Monolethic](https://microservices.io/i/DecomposingApplications.011.jpg)
 
 # References:
 - https://www.freecodecamp.org/news/solid-design-principles-in-software-development/
 - https://realpython.com/solid-principles-python/
+- https://microservices.io/index.html
+- https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/
