@@ -14,6 +14,9 @@ SOLID is an acronym that stands for:
 ## SOLID principles with Python:
 https://realpython.com/solid-principles-python/
 
+## SOLID principles with Java:
+https://www.javatpoint.com/solid-principles-java
+
 # References:
 - https://www.freecodecamp.org/news/solid-design-principles-in-software-development/
 - https://realpython.com/solid-principles-python/
