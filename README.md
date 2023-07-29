@@ -25,10 +25,12 @@ They are seperated by:
 + Deploymenent independently.
 + Developed, Deployed, Managed by smaller team.
 
-Independently deployable
-Loosely coupled
-Organized around business capabilities
-Owned by a small team
+Then, each microservice will have these properties:
++ Independently deployable
++ Serveral integration partterns with other microservices (sync, asyns, ...)
++ Can be tested isolatedly and can be tested in integration level and integrated levels.
+(When your application are designed and developed in microservices architecture, the demands of your software will be more and more complex)
+
 https://microservices.io/index.html
 - From Monolithic to Microservice:
 https://microservices.io/patterns/monolithic.html
