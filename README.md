@@ -19,6 +19,16 @@ https://realpython.com/solid-principles-python/
 https://www.javatpoint.com/solid-principles-java
 
 ## Microservice Architecture
+Microservices - or microservice architecture - is an architectural style to develop the application that structures an application as a collection of minimal componnent as services.
+They are seperated by: 
++ Business purposes or capabilities.
++ Deploymenent independently.
++ Developed, Deployed, Managed by smaller team.
+
+Independently deployable
+Loosely coupled
+Organized around business capabilities
+Owned by a small team
 https://microservices.io/index.html
 - From Monolithic to Microservice:
 https://microservices.io/patterns/monolithic.html
